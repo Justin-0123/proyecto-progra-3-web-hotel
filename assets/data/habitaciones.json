@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nombre": "Habitación Simple",
+    "descripcion": "Habitación básica con cama individual",
+    "precio": 50,
+    "capacidad": 1,
+    "disponible": true
+  },
+  {
+    "id": 2,
+    "nombre": "Habitación Doble",
+    "descripcion": "Habitación con cama doble",
+    "precio": 80,
+    "capacidad": 2,
+    "disponible": true
+  },
+  {
+    "id": 3,
+    "nombre": "Suite",
+    "descripcion": "Suite lujosa con sala de estar",
+    "precio": 150,
+    "capacidad": 4,
+    "disponible": true
+  }
+]
